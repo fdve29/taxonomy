@@ -1,0 +1,19 @@
+created_by: 
+domain: genetics
+seed_examples:
+- answer: | Dolly Sheep was cloned by Keith Campwell, Ian Wilmut and collegues
+  question: Who Cloned Dolly Sheep?
+- answer: | Dolly was born on 5 Jully 1996
+  question: When was the birth of Dolly Sheep
+- answer: | Dolly past away on 14 February 2003
+  question: When Dolly past away?
+- answer: | The first successful cloning of a primate was reported in January 2018
+  question: when was reported the first successful cloning of a primate?
+- answer: | Dolly's body was preserved and donated by the Roslin Institute in Scotland to the National Museum of Scotland
+  question: When is regularly exhibited Dolly's body?
+task_description: ' Dolly (Sheep)'
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: 7b6b4129accea29a770468343b5a18170e59e882
+ patterns:
+   - Dolly_the_sheep.md
